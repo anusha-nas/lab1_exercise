@@ -4,7 +4,7 @@
 
 ### Freshman
 
-![me](desktop/lab1-exercise/profilepicture.JPG)
+![](profilepicture.JPG)
 
 I am *19* years old. I have *2* siblings and *2* dogs. I am a __LSJ__ major and an __informatics__ minor.
 
